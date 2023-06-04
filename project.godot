@@ -14,6 +14,11 @@ config/name="Almost Flappy"
 config/features=PackedStringArray("4.0", "GL Compatibility")
 config/icon="res://icon.svg"
 
+[display]
+
+window/size/resizable=false
+window/stretch/scale=3.0
+
 [input]
 
 player_jump={
